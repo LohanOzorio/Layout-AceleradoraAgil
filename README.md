@@ -1,4 +1,14 @@
-## Running React on Replit
+Desafio para Aceleradora Agil, turma 26º
+
+Layout:
+Menu esquerdo: icone do usuario + nome generico + biografia + menu de links.
+Conteudo Principal: Lista de tarefas-> Dia e Noite.
+
+Lista de tarefas dinamicas, podendo adicionar ou remover tarefas.
+
+Layout foi personalizado para adicionar mais pra aprimorar a experiência do usuário e torna-lo mais intuitivo e agradevel.
+
+/////////////
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
