@@ -1,0 +1,11 @@
+.Layout-Container{
+  display:flex;
+  flex-direction: row;
+  align-items:center;
+  justify-content:space-around;
+  column-gap:40px;
+  margin:auto;
+  width:100%;
+  height:800px;
+  
+}

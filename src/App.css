@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to bottom, rgb(97, 229, 255, 0.8), rgb(19, 25, 119, 0.8));
+  padding:100px;
+
+}
+
+
+
+.urbanist-<uniquifier> {
+  font-family: "Urbanist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}

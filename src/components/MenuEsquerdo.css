@@ -1,0 +1,118 @@
+.Container-Menu{
+  display:flex;
+  flex-direction:column;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background:white;
+  padding-top:25px;
+  padding-bottom:25px;
+  padding-left:25px;
+  padding-right:25px;
+}
+
+.Nome-Generico{
+  text-align:center;
+   font-family: "Urbanist", sans-serif;  
+}
+
+.Biografia{
+  text-align:justify;
+   font-family: "Urbanist", sans-serif;
+  width:400px;
+  height:200px;
+}
+
+.Icon{ 
+  border:1px solid black;
+  width:200px;
+  height:200px;
+  border-radius:50%;
+  margin:auto;
+  margin-bottom:25px;
+}
+
+#imgIcon{
+  border-radius:50%;
+}
+
+.Links{
+  padding-bottom:20px;
+  margin:auto;
+  list-style:none;
+  text-decoration:none;
+  display:flex;
+  flex-direction:column;
+  gap:40px;
+   font-family: "Urbanist", sans-serif;
+}
+
+
+
+#L1{
+  color:black;
+  list-style:none;
+  text-decoration:none;
+  padding:10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background:white;
+}
+
+#L1:hover {
+  background-color: #b4e5fd;
+}
+
+
+#L2{
+  color:black;
+  list-style:none;
+  text-decoration:none;
+  padding:10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background:white;
+}
+
+#L2:hover {
+  background-color: #b4e5fd;
+}
+
+#L3{
+  color:black;
+  list-style:none;
+  text-decoration:none;
+  padding:10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background:white;
+}
+
+#L3:hover {
+  background-color: #b4e5fd;
+}
+
+#L4{
+ color:black;
+  list-style:none;
+  text-decoration:none;
+  padding:10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background:white;
+}
+
+#L4:hover {
+  background-color: #b4e5fd;
+}
+
+
+
+
+
+
+
